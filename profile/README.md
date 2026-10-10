@@ -25,16 +25,6 @@ developer tooling, and open-source infrastructure.
 
 ---
 
-## GitHub Statistics
-
-![AnkWorks Statistics](./assets/stats.svg)
-
-## Technologies & Languages
-
-![AnkWorks Languages](./assets/languages.svg)
-
----
-
 ## Featured Project
 
 ### Aurelia Browser
