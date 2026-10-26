@@ -18,8 +18,7 @@ and thoughtfully crafted digital experiences.
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-Visit_AnkWorks-A3E635?style=for-the-badge&logo=cloudflare&logoColor=09090B)](https://works.ankb.qzz.io)
-[![Documentation](https://img.shields.io/badge/Documentation-Explore-18181B?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.ankb.qzz.io)
+[![Website](https://img.shields.io/badge/Website-Visit_AnkWorks-A3E635?style=for-the-badge&logo=cloudflare&logoColor=09090B)](https://projects.anjkworks.bond)
 [![GitHub](https://img.shields.io/badge/Repositories-Explore_Code-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/ankworks/repositories)
 
 <br/>
@@ -104,8 +103,6 @@ browsing experience with minimal distractions.
 <br/><br/>
 
 [**Explore Aurelia →**](https://github.com/ankworks/aurelia)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-[**Documentation →**](https://docs.ankb.qzz.io)
 &nbsp;&nbsp;·&nbsp;&nbsp;
 [**GitHub Wiki →**](https://github.com/ankworks/aurelia/wiki)
 
@@ -263,12 +260,11 @@ by each repository.
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnkWorks-18181B?style=for-the-badge&logo=github)](https://github.com/ankworks)
-[![Website](https://img.shields.io/badge/Website-works.ankb.qzz.io-A3E635?style=for-the-badge&logo=cloudflare&logoColor=09090B)](https://works.ankb.qzz.io)
-[![Docs](https://img.shields.io/badge/Docs-docs.ankb.qzz.io-18181B?style=for-the-badge&logo=readthedocs)](https://docs.ankb.qzz.io)
+[![Website](https://img.shields.io/badge/Website-projects.ankworks.bond-A3E635?style=for-the-badge&logo=cloudflare&logoColor=09090B)](https://projects.ankworks.bond)
 
 <br/>
 
-**Contact:** [admin@ankb.qzz.io](mailto:admin@ankb.qzz.io)
+**Contact:** [admin@ankb.qzz.io](mailto:admin@ankworks.bond)
 
 <br/>
 
